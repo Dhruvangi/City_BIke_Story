@@ -1,6 +1,7 @@
 # City_BIke_Story
 
 Task : aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.
+![1__0rRHkVRWTXMYiXNFdCNiQ](https://user-images.githubusercontent.com/26314764/152904725-ebc0bdb3-68af-47e7-b080-2923237fc998.jpeg)
 
 Below are the KPI which need to be captured 
  
